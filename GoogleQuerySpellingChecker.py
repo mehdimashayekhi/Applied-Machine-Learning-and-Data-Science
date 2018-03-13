@@ -1,5 +1,4 @@
 import requests
-import re
 import time
 from random import randint
 import sys
